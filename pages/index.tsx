@@ -14,7 +14,7 @@ const HomePage = () => {
   return (
     <div>
       <Navbar />
-      <div>Platzi and Next.js!</div>
+      <div>Platzi and Next.j!</div>
       {renderAvos}
     </div>
   )
